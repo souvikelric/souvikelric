@@ -29,13 +29,13 @@ My tech stack and projects focus on productivity, performance, and clean code.</
 
 ## 🚀 Highlighted Projects
 
-- [**clean-react CLI**](https://www.npmjs.com/package/clean-react)  
+- [**clean-react CLI**](https://www.npmjs.com/package/react-cleanup-cli)  
   Scaffolding tool for quickly setting up clean, scalable React projects.
 
-- [**todo-cli**](https://www.npmjs.com/package/todo-cli)  
+- [**todo-cli**](https://www.npmjs.com/package/@souvikelric/todo-cli)  
   A fast, terminal-based todo manager to keep you organized from the CLI.
 
-- [**beautiful-log**](https://www.npmjs.com/package/beautiful-log)  
+- [**beautiful-log**](https://www.npmjs.com/package/beautiful-logger)  
   A customizable, beautiful logging utility for Node.js applications.
 
 ---
